@@ -12,6 +12,7 @@ namespace CobaGitHub
         {
             Console.WriteLine("Halooo");
             Console.WriteLine("Akuuu");
+            Console.WriteLine("Yunikaaaa");
         }
     }
 }
