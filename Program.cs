@@ -10,6 +10,7 @@ namespace CobaGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Halooo");
         }
     }
 }
